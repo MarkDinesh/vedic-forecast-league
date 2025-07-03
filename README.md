@@ -22,4 +22,4 @@ To evaluate the accuracy of Vedic astrology in real time using falsifiable predi
 
 ## Contact
 
-For questions, visit [vedic-signal.com](https://vedic-signal.com) or email mark.dinesh@example.com
+For questions, visit [vedic-signal.com](https://vedic-signal.com)
