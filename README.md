@@ -2,7 +2,7 @@
 
 This repository logs timestamped Vedic astrology forecasts for empirical testing.
 
-Each prediction is hashed and archived prior to the forecast window (2026–2030), ensuring no post-hoc editing.
+Each prediction is hashed and archived prior to the forecast window (2026–2030), ensuring no post-hoc editing. 
 
 ## Purpose
 
